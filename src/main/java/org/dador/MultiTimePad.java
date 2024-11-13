@@ -2,7 +2,7 @@ package org.dador;
 
 /**
  *
- */  // Ibrahim BELKHODJA , Rimy HANOU  Telecom3
+ */  // Ibrahim BELKHODJA  ,   Rimy HANOU  Telecom3
 
 public class MultiTimePad {
 
